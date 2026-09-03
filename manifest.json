@@ -15,7 +15,6 @@
       "formats": ["mkv", "m3u8", "mp4"],
       "logo": "",
       "contentLanguage": ["en", "hi"]
-    },
-
+    }
   ]
 }
