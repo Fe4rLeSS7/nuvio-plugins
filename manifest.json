@@ -6,7 +6,7 @@
       "id": "4khd",
       "name": "4khd",
       "description": "Provider: 4kHdHub | Multi-lang",
-      "version": "1.5.0",
+      "version": "1.0.0",
       "author": "Fearless",
       "supportedTypes": ["movie", "tv"],
       "filename": "scraper.js",
