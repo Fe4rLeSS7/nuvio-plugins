@@ -1,7 +1,7 @@
 {
-  "name": "My Custom Nuvio Plugins",
+  "name": "Fe@rLeSS",
   "version": "1.0.0",
-  "scrapers": [
+  "providers": [
     {
       "id": "4khdhub_enhanced",
       "name": "4kHdHub Enhanced",
