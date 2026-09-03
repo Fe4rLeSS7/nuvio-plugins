@@ -1,0 +1,10 @@
+{
+    "id": "org.plugin.4khdhub.enhanced",
+    "name": "4kHdHub Enhanced",
+    "version": "1.0.0",
+    "description": "Scraper for 4kHdHub with integrated Pixeldrain bypass support.",
+    "author": "Developer",
+    "type": "scraper",
+    "script": "scraper.js",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=4khdhub.one"
+}
