@@ -1,20 +1,21 @@
 {
   "name": "Fe@rLeSS",
   "version": "1.0.0",
-  "providers": [
+  "scrapers": [
     {
-      "id": "4khdhub_enhanced",
-      "name": "4kHdHub Enhanced",
-      "description": "Provider: 4kHdHub | Pixeldrain Bypass",
-      "version": "1.0.0",
-      "author": "YourName",
+      "id": "4khd",
+      "name": "4khd",
+      "description": "Provider: 4kHdHub | Multi-lang",
+      "version": "1.5.0",
+      "author": "Fearless",
       "supportedTypes": ["movie", "tv"],
       "filename": "scraper.js",
       "enabled": true,
       "hasSettings": true,
-      "formats": ["mkv", "mp4", "m3u8"],
-      "logo": "https://www.google.com/s2/favicons?sz=64&domain=4khdhub.one",
+      "formats": ["mkv", "m3u8", "mp4"],
+      "logo": "",
       "contentLanguage": ["en", "hi"]
-    }
+    },
+
   ]
 }
